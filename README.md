@@ -10,7 +10,7 @@ Oi 😉, meu nome é Gustavo Clay, Desenvolvedor, formando em Sistemas de Inform
 
 -  ⚡ Linguagens que gosto: Java, JavaScript, Typescript.
 -  🌱 O que estou estudando: Quarkus, Spring, Kubernetes.
--  💬 Visite o meu blog:  [gustavoclay.github.ui](https://gustavoclay.github.io/posts/)
+-  💬 Visite o meu blog:  [gustavoclay.github.io](https://gustavoclay.github.io/posts/)
 
 ---
 Made with 💜 by [Gustavo Clay](https://github.com/gustavoclay)

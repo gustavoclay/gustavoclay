@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavoclay@gmail.com)](mailto:gustavoclay@gmail.com)
 
 ---
-Oi 😉, meu nome é Gustavo Clay, Desenvolvedor, formando em Sistemas de Informação, apaixonado por Programação💻 e Linux💙, e ouvinte assíduo de Podcasts🎧. <br />
+Olá 😉, meu nome é Gustavo Clay, Desenvolvedor, formando em Sistemas de Informação e Arquitetura de Software Distribuído, apaixonado por Programação💻 e Linux💙, e ouvinte assíduo de Podcasts🎧. <br />
 
 -  ⚡ Linguagens que gosto: Java, JavaScript, Typescript.
 -  🌱 O que estou estudando: Quarkus, Spring, Node, Kubernetes, Angular, React, ReactNative.

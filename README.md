@@ -1,4 +1,4 @@
-# Gustavo Clay do Nascimento Lima
+# Gustavo Clay
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gustavoclay)](https://github.com/gustavoclay)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavoclay/)](https://www.linkedin.com/in/gustavoclay/)
@@ -7,7 +7,7 @@
 ---
 ![brent-rambo-thumbsup](https://github.com/gustavoclay/gustavoclay/assets/7647563/f616a0cc-8546-4ff5-bf36-6ce446367909)
 
-Olá 😉, meu nome é Gustavo Clay, Desenvolvedor, formando em Sistemas de Informação e Arquitetura de Software Distribuído, apaixonado por Programação💻 e Linux💙, e ouvinte assíduo de Podcasts🎧. <br />
+Olá 😉, meu nome é Gustavo Clay, Software Engineer e Professor, formando em Sistemas de Informação e Arquitetura de Software Distribuído, apaixonado por Programação💻 e Linux💙, e ouvinte assíduo de Podcasts🎧. <br />
 
 ⚡ Linguagens que gosto:
 <br />

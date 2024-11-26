@@ -5,7 +5,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavoclay@gmail.com)](mailto:gustavoclay@gmail.com)
 
 ---
-![brent-rambo-thumbsup](https://github.com/gustavoclay/gustavoclay/assets/7647563/f616a0cc-8546-4ff5-bf36-6ce446367909)
 
 Olá 😉, meu nome é Gustavo Clay, Software Engineer e Professor, formando em Sistemas de Informação e Arquitetura de Software Distribuído, apaixonado por Programação💻 e Linux💙, e ouvinte assíduo de Podcasts🎧. <br />
 

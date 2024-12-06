@@ -6,7 +6,7 @@
 
 ---
 
-Olá 😉, meu nome é Gustavo Clay, Software Engineer e Professor, formando em Sistemas de Informação e Arquitetura de Software Distribuído, apaixonado por Programação💻 e Linux💙, e ouvinte assíduo de Podcasts🎧. <br />
+Olá 😉, meu nome é Gustavo Clay, Desenvolvedor e Professor, formando em Sistemas de Informação e Arquitetura de Software Distribuído, apaixonado por Programação💻 e Linux💙, e ouvinte assíduo de Podcasts🎧. <br />
 
 ⚡ Linguagens que gosto:
 <br />
@@ -23,8 +23,10 @@ Olá 😉, meu nome é Gustavo Clay, Software Engineer e Professor, formando em 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/quarkusio/quarkusio.github.io/f88d9692638a0c1b8235a871ef80e3bf864b8f7f/assets/images/stickers/sticker_logo_vertical.png" width="60" height="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="60" height="60"/>

@@ -6,7 +6,7 @@
 
 ---
 
-Olá 😉, meu nome é Gustavo Clay, Desenvolvedor e Professor, formando em Sistemas de Informação e Arquitetura de Software Distribuído, apaixonado por Programação💻 e Linux💙, e ouvinte assíduo de Podcasts🎧. <br />
+Olá 😉, meu nome é Gustavo Clay, Desenvolvedor e Professor, formando em Sistemas de Informação, Arquitetura de Software Distribuído e Engenharia de Software, apaixonado por Programação💻 e Linux💙, e ouvinte assíduo de Podcasts🎧. <br />
 
 ⚡ Linguagens que gosto:
 <br />
